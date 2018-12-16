@@ -8,10 +8,10 @@ thought Phoenix / Absinthe.
 This project is a conglomerate of multiple sub-projects of which each contains
 tolls for a specific problem:
 
-* [Absinthe](https://github.com/CRUDimentary/crudimentary-absinthe)
-* [Ecto](https://github.com/CRUDimentary/crudimentary-ecto)
-* [Policies](https://github.com/CRUDimentary/crudimentary-policies)
-* [Caching](https://github.com/CRUDimentary/crudimentary-caching)
+* [Absinthe](https://github.com/CRUDimentary/crudimentary_absinthe)
+* [Ecto](https://github.com/CRUDimentary/crudimentary_ecto)
+* [Policies](https://github.com/CRUDimentary/crudimentary_policies)
+* [Caching](https://github.com/CRUDimentary/crudimentary_caching)
 
 ## License
 
