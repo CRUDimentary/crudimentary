@@ -26,3 +26,7 @@ crudimentary-*.tar
 *.swap
 tags
 .DS_Store
+
+# Ignore sub-projects
+/curdimentary-*/
+/curdimentary/

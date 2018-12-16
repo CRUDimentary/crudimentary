@@ -9,7 +9,7 @@ defmodule CRUDimentary.MixProject do
       start_permanent: Mix.env() == :prod,
       deps: deps(),
       name: "CRUDimentary",
-      source_url: "https://github.com/stankec/crudimentary",
+      source_url: "https://github.com/CRUDimentary/crudimentary",
       docs: [
         main: "Crudimentary",
         extras: ["README.md"]
@@ -25,14 +25,10 @@ defmodule CRUDimentary.MixProject do
 
   defp deps do
     [
-      {:absinthe, "~> 1.4"},
-      {:ex_doc, "~> 0.16"},
-      {:inflex, "~> 1.10.0"},
-      {:odgn_json_pointer, "~> 2.3"},
-      {:paginator, "~> 0.6.0"},
-      {:phoenix, ">= 0.0.0"},
-      {:confex, "~> 3.3.1"},
-      {:dataloader, "~> 1.0.4"}
+      {:crudimentary_absinthe, ">= 0"},
+      {:crudimentary_ecto, ">= 0"},
+      {:crudimentary_cahce, ">= 0"},
+      {:crudimentary_policy, ">= 0"},
     ]
   end
 end
