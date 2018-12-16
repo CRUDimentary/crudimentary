@@ -10,8 +10,8 @@ tolls for a specific problem:
 
 * [Absinthe](https://github.com/CRUDimentary/crudimentary_absinthe)
 * [Ecto](https://github.com/CRUDimentary/crudimentary_ecto)
-* [Policies](https://github.com/CRUDimentary/crudimentary_policies)
-* [Caching](https://github.com/CRUDimentary/crudimentary_caching)
+* [Policies](https://github.com/CRUDimentary/crudimentary_policy)
+* [Caching](https://github.com/CRUDimentary/crudimentary_cache)
 
 ## License
 
